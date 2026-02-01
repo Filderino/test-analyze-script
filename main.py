@@ -63,9 +63,3 @@ class AnalyzeScript:
 
 x = AnalyzeScript(purchases)
 print(x.total_revenue(), x.items_by_category(), x.expensive_purchases(), x.average_price_by_category(), x.most_frequent_category(), sep='\n')
-
-
-
-
-
-
